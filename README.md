@@ -1,4 +1,4 @@
-# Airflow-ETL-Pipeline-Data-project
+# Airflow-ETL-Data-Pipeline-project
 
 
 ## Project Overview:
